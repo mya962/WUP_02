@@ -65,4 +65,7 @@ The probability of getting this result is .00000003405. We don't believe that no
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the George Town videos collection.!-->
+
+This assignment was pretty easy to complete as it contains things we have learned about before. I first had to fork my own copy of the Wup_02 github link and started a new template. It was suprising how little the possibilities are for the cabbages.
+
